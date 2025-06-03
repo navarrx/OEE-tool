@@ -1,6 +1,6 @@
 # OEE Calculator for R&D and Simulation Department
 
-This application measures and tracks Overall Equipment Effectiveness (OEE) metrics for the R&D and Simulation Department, focusing on early fire and eruption detection models.
+This application measures and tracks Overall Equipment Effectiveness (OEE) metrics for the R&D and Simulation Department, focusing on early fire detection models.
 
 ## Overview
 
